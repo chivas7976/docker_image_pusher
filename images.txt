@@ -1,5 +1,8 @@
 alpine
 python:alpine3.19
-kasmweb/nginx:1.25.3
---platform=linux/amd64 redis:7.0.15-alpine3.20
---platform=linux/arm/v7 redis:7.0.15-alpine3.20
+nyanmisaka/jellyfin
+allanpk716/chinesesubfinder|
+linyuan0213 / nas-tools
+80x86/filebrowser
+80x86/qbittorrent:4.3.3-groovy-20201125.2-amd64-nova
+ghcr.io/linuxserver/jackett
